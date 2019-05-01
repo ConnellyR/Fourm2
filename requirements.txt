@@ -7,3 +7,4 @@ gunicorn
 Flask-OAuthlib
 bson
 flask-pymongo
+dnspython
